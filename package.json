@@ -39,6 +39,7 @@
   "dependencies": {
     "@jarvisaoieong/redux-logger": "2.5.0",
     "@jarvisaoieong/redux-loop": "1.0.8",
+    "babel-preset-react-hmre": "1.1.0",
     "bluebird": "2.9.34",
     "lodash": "4.0.1",
     "react": "0.14.3",
